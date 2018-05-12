@@ -1,0 +1,38 @@
+_repo: Beaumont--amp--Fletcher-s-Works--3-of-10---The-Loyal-Subject_39249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fletcher, John
+    aliases:
+    - Flecher, John
+    - Fletcher, Iohn
+    birthdate: 1579
+    deathdate: 1625
+    gutenberg_agent_id: '4606'
+    url: http://www.gutenberg.org/2009/agents/4606
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
+  - agent_name: Beaumont, Francis
+    alias: Beamont, Francis
+    birthdate: 1584
+    deathdate: 1616
+    gutenberg_agent_id: '3603'
+    url: http://www.gutenberg.org/2009/agents/3603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
+description: Probably written by Fletcher alone.
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Tragicomedy'
+title: 'Beaumont & Fletcher''s Works (3 of 10): The Loyal Subject'
+url: http://www.gutenberg.org/ebooks/39249
